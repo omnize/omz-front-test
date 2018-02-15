@@ -2,7 +2,18 @@
 
 This code has some bugs, find it and fix it.
 
-The page has three main areas to fix.
+# Setup
+To begin, install all dependencies:
+```
+npm install
+```
+
+Then start server:
+```
+npm run server
+```
+
+# The page has three main areas to fix
 
 ## First
 
