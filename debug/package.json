@@ -1,0 +1,23 @@
+{
+  "name": "debug",
+  "version": "0.0.1",
+  "description": "This code has a bug, find it and fix it.",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack",
+    "server": "npm run build && ./node_modules/.bin/webpack-dev-server --hot --inline"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1",
+    "url-loader": "^0.6.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
