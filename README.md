@@ -8,11 +8,8 @@ Before all, make a fork of the project. When finishes, make a pull-request.
 ## Debug
 Fix all bugs on the code.
 
-## React
-Create a simple react app.
-
 ## Layout
-Make a layout alive.
+Create a react application, based on a layout.
 
 # Requirements
 * No errors
